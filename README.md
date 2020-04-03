@@ -1,6 +1,8 @@
 # DataSet of Animals
-
-Animal DataSet (3 animals) with 300 photos to train and 60 to validate. 
+- Dog
+- Cat
+- Bird
+- Ant
 
 ## Authors
 
