@@ -1,5 +1,5 @@
 # DataSet of Animals
-Animals DataSet (4 animals) with white background and jpg format.
+Animals DataSet (6 animals) with white background and jpg format.
 
 - Dog
 - Cat
