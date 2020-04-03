@@ -5,6 +5,7 @@ Animals DataSet (4 animals) with white background and jpg format.
 - Cat
 - Bird
 - Ant
+- Rabbit
 
 ## Authors
 
